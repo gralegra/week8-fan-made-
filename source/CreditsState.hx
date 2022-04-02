@@ -60,6 +60,7 @@ class CreditsState extends MusicBeatState
 	['undertale team yeah yeah cool'],
 	['TemmieChang',			'TemmieChang',			"artista de undertale e outras budegas la man'",				'https://twitter.com/tuyoki',			'0xFF53E52C'],
 	['TobyFox',			'TobyFox',			"criador \nCompositor e outras coisas de undertale'",				'https://twitter.com/tobyfox',			'0xFF53E52C'],
+	['Moxxir',			'TemmieChang',			"beta'",				'',			'0xFF53E52C'],
 ];
 
 	var bg:FlxSprite;
